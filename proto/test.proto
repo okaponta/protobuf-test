@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package proto;
+
+option java_package = "com.test";
+
+message TestEntity{
+    int32 id = 1;
+    string name = 2;
+    string description = 3;
+}

@@ -1,1 +1,3 @@
 # protobuf-test
+
+`./gradlew generateProto`
